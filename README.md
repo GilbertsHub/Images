@@ -16,7 +16,7 @@ VulcunSalute_alternate.svg - vector graphic version - use Inkscape to view and c
 
 VulcanSalute_alternate.png - image format for weakminded software that can't handle .svg.
 
-VulcanSalute_alternate-double.png - for table tent
+VulcanSalute_alternate-single.png - single 1/2 page image
 
 
 
