@@ -19,3 +19,5 @@ For more on the Vulcan Salute visit https://en.wikipedia.org/wiki/Vulcan_salute
 Another alternate is bowing, which George Washington used as was the custom among Gentlemen of 
 at least Verginia. See https://www.constitutionfacts.com/us-founding-fathers/fascinating-facts/
 and search for "bowing".
+
+Also: https://www.mountvernon.org/george-washington/rules-of-civility/article/in-pulling-off-your-hat-to-persons-of-distinction-as-noblemen-justices-churchmen-c-make-a-reverence-bowing-more-or-less-according-to-the-custom-of-the-better-bred-and-quality-of-the-person-amongst-your-equals-expect-not-always-that-they-should-begin-with-/
