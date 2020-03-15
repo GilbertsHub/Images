@@ -13,7 +13,7 @@ This repositoy is subject to change as images and ideas evolve.
 
   * Designed to fold into a "table tent" to show the image on both sides of the tent.
   
-  * If you want to change the image this is the file to usr, and what to send me.
+  * If you want to change the image this is the file to use, and what to send me.
    
   * Beware the "upside down" items are clones of the master regular images. 
     ( Any edits to masters are reflected in the corresponding clones.
