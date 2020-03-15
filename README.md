@@ -5,7 +5,7 @@ This repositoy is subject to change as images and ideas evolve.
 
 * VulcunSalute_alternate.pdf - easy to print PDF format.
 
-  * PLEASE: download and print from a diwbkiaded PDF file 
+  * PLEASE: download and print from a downloaded PDF file 
     If you print directly from the GitHub web page GitHub footers will be printed, 
     which will spoil page alignment. 
 
