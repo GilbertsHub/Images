@@ -1,4 +1,7 @@
-# Images
+This repositoy is subject to change as images and ideas evolve.
+
+# Vulcan Salute
+## Files for COVID-19 Alternates to Handshakes
 
 * VulcunSalute_alternate.pdf - easy to print PDF format.
 
@@ -8,23 +11,23 @@
 
 * VulcunSalute_alternate.svg - vector graphic version - use Inkscape to view and change.
 
-** Designed to fold into a "table tent" to show the image on both sides of the tent.
+  ** Designed to fold into a "table tent" to show the image on both sides of the tent.
   
-** If you want to change the image this is the file to usr, and what to send me.
+  ** If you want to change the image this is the file to usr, and what to send me.
    
-** Beware the "upside down" items are clones of the master regular images. 
-( Any edits to masters are reflected in the corresponding clones.
-   Use Edit >> Clone >> Unlink to break clone links. 
+  ** Beware the "upside down" items are clones of the master regular images. 
+    ( Any edits to masters are reflected in the corresponding clones.
+     Use Edit >> Clone >> Unlink to break clone links. 
 
 * VulcanSalute_alternate.png - image format for weakminded software that can't handle .svg.
 
 * VulcanSalute_alternate-single.png - single 1/2 page image
 
-
-
-This repositoy is subject to change as images and ideas evolve.
+## Notes On Vulcan Salute 
 
 For more on the Vulcan Salute visit https://en.wikipedia.org/wiki/Vulcan_salute
+
+This is just presents a friendly alternate to handshakes. Bowing also works. 
 
 Another alternate is bowing, which George Washington used as was the custom among Gentlemen of 
 at least Verginia. See https://www.constitutionfacts.com/us-founding-fathers/fascinating-facts/
