@@ -19,6 +19,7 @@ VulcanSalute_alternate.png - image format for weakminded software that can't han
 VulcanSalute_alternate-double.png - for table tent
 
 
+
 This repositoy is subject to change as images and ideas evolve.
 
 For more on the Vulcan Salute visit https://en.wikipedia.org/wiki/Vulcan_salute
