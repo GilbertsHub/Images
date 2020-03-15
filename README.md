@@ -9,4 +9,6 @@ VulcunSalute_alternate.svg - vectory graphic version - use Inkscape to view and 
 
 VulcanSalute_alternate.png - image format for weakminded software that can't handle .svg. 
 
-This repositoy is subject to change as images evolve. 
+This repositoy is subject to change as images evolve.
+
+For more on the Vulcan Salute visit https://en.wikipedia.org/wiki/Vulcan_salute
