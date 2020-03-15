@@ -4,7 +4,7 @@ VulcunSalute_alternate.pdf - easy to print PDF format.
    If you print directly from the GitHub web page GitHub footers will be printed, 
    which will spoil page alignment. 
 
-VulcunSalute_alternate.svg - vectory graphic version - use Inkscape to view and change.
+VulcunSalute_alternate.svg - vector graphic version - use Inkscape to view and change.
    If you want to change the image this is the file to use. 
    Beware the "ubside down" images are clones of the master regular images. 
    Any edits to a clone master are reflected in the clones. Use Edit >> Clone >> Unlink 
