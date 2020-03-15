@@ -6,6 +6,9 @@ VulcunSalute_alternate.pdf - easy to print PDF format.
 
 VulcunSalute_alternate.svg - vectory graphic version - use Inkscape to view and change.
    If you want to change the image this is the file to use. 
+   Beware the "ubside down" images are clones of the master regular images. 
+   Any edits to a clone master are reflected in the clones. Use Edit >> Clone >> Unlink 
+   to break clone links. 
 
 VulcanSalute_alternate.png - image format for weakminded software that can't handle .svg. 
 
