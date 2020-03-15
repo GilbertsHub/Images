@@ -5,14 +5,17 @@ VulcunSalute_alternate.pdf - easy to print PDF format.
    which will spoil page alignment. 
 
 VulcunSalute_alternate.svg - vector graphic version - use Inkscape to view and change.
-   If you want to change the image this is the file to use. 
-   Beware the "ubside down" images are clones of the master regular images. 
-   Any edits to a clone master are reflected in the clones. Use Edit >> Clone >> Unlink 
-   to break clone links. 
+   Designed to fold into a "table tent" to show the image on both sides of the tent.
+   If you want to change the image this is the file to usr, and what to send me.
+   Beware the "upside down" items are clones of the master regular images. 
+   Any edits to masters are reflected in the corresponding clones.
+   Use Edit >> Clone >> Unlink to break clone links. 
 
-VulcanSalute_alternate.png - image format for weakminded software that can't handle .svg. 
+VulcanSalute_alternate.png - image format for weakminded software that can't handle .svg.
+VulcanSalute_alternate-double.png - for table tent
 
-This repositoy is subject to change as images evolve.
+
+This repositoy is subject to change as images and ideas evolve.
 
 For more on the Vulcan Salute visit https://en.wikipedia.org/wiki/Vulcan_salute
 
