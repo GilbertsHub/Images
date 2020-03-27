@@ -48,3 +48,4 @@ As I am making no claim of ownership of anything Vulcan or Star Trek> I place no
 The original salute and "live long and prosper" are from the original Star Trek television series and are trademarked by CBS Studios. 
 
 The overall idea and words come from an internet meme I can not trace back to the original creator for credit. The text itself has been greatly changed. The basic image has also been changed to be a mashup of distortions of my hand, with some features of Leonard Nemoy’s hand in the Wikipedia article, and my poor artwork skills.
+
