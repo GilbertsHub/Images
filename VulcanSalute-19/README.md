@@ -43,7 +43,7 @@ and search for "bowing".
 Also: https://www.mountvernon.org/george-washington/rules-of-civility/article/in-pulling-off-your-hat-to-persons-of-distinction-as-noblemen-justices-churchmen-c-make-a-reverence-bowing-more-or-less-according-to-the-custom-of-the-better-bred-and-quality-of-the-person-amongst-your-equals-expect-not-always-that-they-should-begin-with-/
 ## Credits, License, and Trademarks
 
-As I am making no claim of ownership of anything Vulcan or Star Trek> I place no restrictions on the use of my material. Use of CBS’s material is up to their policy which seems to allow for non-profit fan art. My use is fair use "fan art" and I make no claim on them. Title and ownership remains with CBS.
+As I am making no claim of ownership of anything Vulcan or Star Trek. I place no restrictions on the use of my material. Use of CBS’s material is up to their policy which seems to allow for non-profit fan art. My use is fair use "fan art" and I make no claim on them. Title and ownership remains with CBS.
 
 The original salute and "live long and prosper" are from the original Star Trek television series and are trademarked by CBS Studios. 
 
